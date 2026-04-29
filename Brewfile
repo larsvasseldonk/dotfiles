@@ -28,6 +28,7 @@ cask "spotify"
 cask "visual-studio-code"
 cask "antigravity"
 cask "whatsapp"
+cask "firefox"
 
 # Fonts (Modernized for Homebrew Cask)
 cask "font-jetbrains-mono-nerd-font"
