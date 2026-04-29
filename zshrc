@@ -46,3 +46,7 @@ precmd() { vcs_info }
 zstyle ':vcs_info:git:*' formats ' (%b)'
 setopt PROMPT_SUBST
 PROMPT='%F{cyan}%1~%f%F{yellow}${vcs_info_msg_0_}%f > '
+
+# 9. MISC
+# For automatic loading of environment variables when you enter a directory
+eval "$(dirdotenv hook zsh)"

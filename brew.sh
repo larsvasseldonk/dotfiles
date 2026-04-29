@@ -38,3 +38,8 @@ brew update
 
 pretty_print "💁‍♀️ Installing essentials..."
 brew bundle
+
+# Installing UV tools
+
+pretty_print "💁‍♀️ Installing UV tools..."
+uv tool install dirdotenv
