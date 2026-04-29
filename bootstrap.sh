@@ -26,6 +26,8 @@ function doIt() {
         --exclude "brew.sh" \
         --exclude "Brewfile" \
         --exclude "README.md" \
+        --exclude "zshrc" \
+        --exclude "ghostty/" \
         -avh --no-perms . ~;
 
     # FORCE SYMLINKS for the important stuff
