@@ -33,7 +33,7 @@ function doIt() {
     ln -sf "$DOTFILES_DIR/zshrc" ~/.zshrc
     ln -sf "$DOTFILES_DIR/ghostty/config" ~/.config/ghostty/config
 
-    echo "✅ Setup complete! Welcome back, Luca."
+    echo "✅ Setup complete! Welcome back, Lars."
     source ~/.zshrc
 }
 

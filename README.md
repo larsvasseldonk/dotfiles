@@ -42,8 +42,8 @@ settings, and workflows.
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/lucavh/dotfiles.git ~/Projects/dotfiles
-cd ~/Projects/dotfiles
+git clone https://github.com/lucavh/dotfiles.git ~/Documents/repos/dotfiles
+cd ~/Documents/repos/dotfiles
 
 # 2. Run the bootstrap script
 chmod +x bootstrap.sh
