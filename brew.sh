@@ -43,3 +43,4 @@ brew bundle
 
 pretty_print "💁‍♀️ Installing UV tools..."
 uv tool install dirdotenv
+uv tool install pre-commit
