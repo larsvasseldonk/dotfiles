@@ -2,6 +2,7 @@
 
 # Development
 brew "bash"
+brew "duckdb"
 brew "fzf"
 brew "gh"
 brew "git"
